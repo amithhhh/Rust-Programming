@@ -25,3 +25,9 @@ i32 -> datatype it means 32 bit integer variable
 
 to call this function:
 	let x = add(1, 1);
+
+
+3) macros
+
+macros expands into additional code.
+name followd by ! means it is a macro
