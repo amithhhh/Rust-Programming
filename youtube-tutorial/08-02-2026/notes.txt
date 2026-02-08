@@ -7,3 +7,21 @@ example:
 	let half = 0.5;
 	let mut my_name = "bill"; //can change the value later because it is mutable 
 	let another_half = half; 
+
+
+2)functions
+
+example:
+	fn add(a: i32, b: i32) -> i32 {
+		a + b;
+	}
+
+fn -> keyword
+add -> name of the function
+a, b -> variables
+i32 -> datatype it means 32 bit integer variable
+
+-> i32 -> return 32 bit integer variable 
+
+to call this function:
+	let x = add(1, 1);
