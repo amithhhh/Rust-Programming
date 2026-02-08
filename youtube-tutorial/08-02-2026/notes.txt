@@ -1,0 +1,9 @@
+1) rust variables are immutable by default. we can change it to mutable.
+
+example:
+	let two = 2;
+	let hello = "Hello";
+	let j = 'j';
+	let half = 0.5;
+	let mut my_name = "bill"; //can change the value later because it is mutable 
+	let another_half = half; 
